@@ -1,0 +1,7 @@
+.idea/*
+project/target/*
+target/*
+tmp/*
+example/*
+spark-submit-for-emr/*
+wikipedia/*

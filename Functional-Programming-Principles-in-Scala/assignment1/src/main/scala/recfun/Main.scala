@@ -55,8 +55,9 @@ object Main {
       else 0
 
     }
+
     loop(0, coins)
-    if (coins.isEmpty) 0 //no coins
+    if (coins.isEmpty) 0
 
     else {
       loop(0, coins)
